@@ -3,4 +3,4 @@ djangorestframework
 djangorestframework-simplejwt
 drf-yasg
 Pillow
-
+gunicorn
