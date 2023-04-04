@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+Pillow
+
